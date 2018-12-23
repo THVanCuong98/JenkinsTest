@@ -8,6 +8,6 @@ public class MainController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome to Jenkins test!";
+		return "Branch kien.do Welcome to Jenkins test!";
 	}
 }
