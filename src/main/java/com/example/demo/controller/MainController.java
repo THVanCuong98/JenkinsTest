@@ -10,6 +10,6 @@ public class MainController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Branch kien.do Welcome to Jenkins test!";
+		return "Branch master Welcome to Jenkins test!";
 	}
 }
