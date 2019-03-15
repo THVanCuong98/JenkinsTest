@@ -10,6 +10,6 @@ public class MainController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Hello World!333";
+		return "Do Van Cuong";
 	}
 }
