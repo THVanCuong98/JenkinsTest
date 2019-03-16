@@ -10,6 +10,6 @@ public class MainController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Do Van Cuong - CNTT3-K57-1998";
+		return "Do Van Cuong - CNTT3-K57";
 	}
 }
